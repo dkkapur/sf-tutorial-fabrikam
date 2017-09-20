@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  fabrikamfiber.web:
+    image: fabrikamfiber.web
+    build:
+      context: .\FabrikamFiber.Web
+      dockerfile: Dockerfile
+    ports:
+      - "80:80"

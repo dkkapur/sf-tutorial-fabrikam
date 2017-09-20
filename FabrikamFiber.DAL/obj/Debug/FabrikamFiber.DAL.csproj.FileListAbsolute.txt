@@ -1,0 +1,11 @@
+C:\Users\dekapur\Documents\Fabrikam\FabrikamFiber.DAL\bin\Debug\FabrikamFiber.DAL.dll.config
+C:\Users\dekapur\Documents\Fabrikam\FabrikamFiber.DAL\bin\Debug\FabrikamFiber.DAL.dll
+C:\Users\dekapur\Documents\Fabrikam\FabrikamFiber.DAL\bin\Debug\FabrikamFiber.DAL.pdb
+C:\Users\dekapur\Documents\Fabrikam\FabrikamFiber.DAL\bin\Debug\EntityFramework.dll
+C:\Users\dekapur\Documents\Fabrikam\FabrikamFiber.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dekapur\Documents\Fabrikam\FabrikamFiber.DAL\bin\Debug\EntityFramework.xml
+C:\Users\dekapur\Documents\Fabrikam\FabrikamFiber.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dekapur\Documents\Fabrikam\FabrikamFiber.DAL\obj\Debug\FabrikamFiber.DAL.csprojResolveAssemblyReference.cache
+C:\Users\dekapur\Documents\Fabrikam\FabrikamFiber.DAL\obj\Debug\FabrikamFiber.DAL.csproj.CoreCompileInputs.cache
+C:\Users\dekapur\Documents\Fabrikam\FabrikamFiber.DAL\obj\Debug\FabrikamFiber.DAL.dll
+C:\Users\dekapur\Documents\Fabrikam\FabrikamFiber.DAL\obj\Debug\FabrikamFiber.DAL.pdb

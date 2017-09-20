@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+  fabrikamfiber.web:
+    build:
+      args:
+        source: obj/Docker/publish/
+    volumes:
+      - C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\Remote Debugger:C:\remote_debugger:ro
+    labels:
+      com.microsoft.visualstudio.debuggee.program: "C:\\app\\FabrikamFiber.Web.dll"
+      com.microsoft.visualstudio.debuggee.workingdirectory: "C:\\app"
